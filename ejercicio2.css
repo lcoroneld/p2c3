@@ -1,0 +1,20 @@
+.tx-titulo
+{
+    font-weight: bold;
+    color: red !important;
+}
+
+.tx-subrayar
+{
+    text-decoration: underline;
+}
+
+.tx-verde
+{
+    color: green;
+}
+
+#txtnombre
+{
+    color: violet;
+}
